@@ -37,9 +37,9 @@ export default function Home () {
       <section className='container px-4 py-10 mx-auto lg:h-128 lg:space-x-8 lg:flex lg:items-center'>
         <div className='w-full text-center lg:text-left lg:w-1/2 lg:-mt-8'>
           <h1 className='text-3xl leading-snug text-gray-800 dark:text-gray-200 md:text-4xl'>
-            Supercharge Your Business with <br className='hidden lg:block' />{' '}
+            Create Your Online Presense With with <br className='hidden lg:block' />{' '}
             <span className='font-semibold'>PixeLink</span> in Web Development,{' '}
-            <br className='hidden lg:block' /> Including{' '}
+            <br className='hidden lg:block' />Including{' '}
             <span className='font-semibold underline decoration-primary'>
               <span ref={el} />
             </span>
